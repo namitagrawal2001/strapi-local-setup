@@ -1,3 +1,29 @@
+# Strapi Local Setup (Task Submission)
+
+## Task Objective
+Clone the Strapi repository, run Strapi locally, start the admin panel, and create a sample content type.
+
+## Work Done
+- Cloned the Strapi core repository and explored the folder structure
+- Ran Strapi locally using a Strapi application
+- Started the Admin Panel on localhost
+- Created a sample content type (Article)
+- Added and published a sample content entry
+
+## Admin Panel URL
+http://localhost:1337/admin
+
+## Sample Content Type
+Article
+- title (Text)
+- description (Rich Text)
+
+## Demo Video
+Video Link: https://drive.google.com/file/d/1eeLV8C3neMz0kbUhOxfgvfsFxReN5OkP/view?usp=sharing
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
